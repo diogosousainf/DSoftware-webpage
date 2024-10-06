@@ -13,7 +13,7 @@ body {
 }
 /* Hero Section */
 .hero-section {
-    background: url("imagens/2.png") center center / 100% no-repeat;
+    background: url("imagens/2.png") center center / cover no-repeat;
     color: #fff;
     padding: 150px 0;
     text-align: center;
